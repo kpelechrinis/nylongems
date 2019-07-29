@@ -23,8 +23,6 @@ for k in pairs.keys():
 			el = (pairs[k]['right'],pairs[k]['left'])
 		data.append(el)
 
-print(len(data))
-
 print("Nylon\tGemScore")
 skills = choix.ilsr_pairwise(8, data, alpha=0.01)
 print("=====================")
