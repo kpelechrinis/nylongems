@@ -20,7 +20,7 @@
         <script type="text/javascript">
             var Anywhere = {};
             Anywhere.urls = {};
-            Anywhere.csrfToken = "8R2zPTudLNvYQNjflbf4kJq4baJ3kmPkug9zXjfwJYVYNrjUPdOZxTzv0nPGHr3Q";
+            Anywhere.csrfToken = "xgdVgSrnwwtK3fqN5oIlqUoRnm3kh2wBtzvutvG6JqHZJkEFDCx7Zl5i0Jzr7jZV";
         </script>
         <script type="text/javascript" src="/static/CACHE/js/fa705b4d7fe1.js"></script>
         
@@ -129,7 +129,7 @@
 
   
 
-  <form class="form" action="" method="post"><input type='hidden' name='csrfmiddlewaretoken' value='8R2zPTudLNvYQNjflbf4kJq4baJ3kmPkug9zXjfwJYVYNrjUPdOZxTzv0nPGHr3Q' />
+  <form class="form" action="" method="post"><input type='hidden' name='csrfmiddlewaretoken' value='xgdVgSrnwwtK3fqN5oIlqUoRnm3kh2wBtzvutvG6JqHZJkEFDCx7Zl5i0Jzr7jZV' />
     <table>
   <style type="text/css" scoped>
     /* hide stupid updowney arrows on number input */
