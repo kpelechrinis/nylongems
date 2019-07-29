@@ -2,7 +2,7 @@ import os
 import sys
 import choix
 
-f = open("results.txt","r")
+f = open("../results.txt","r")
 
 pairs = dict()
 
