@@ -6,6 +6,9 @@ import random
 import datetime
 import sys
 
+### ATTENTION
+### Substitute '/home/nylongems/mysite' with your directory
+
 TEMPLATE_DIR = os.path.abspath('/home/nylongems/mysite/templates')
 STATIC_DIR = os.path.abspath('/home/nylongems/mysite/static')
 
