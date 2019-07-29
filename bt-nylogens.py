@@ -24,6 +24,9 @@ for k in pairs.keys():
 		data.append(el)
 
 print(len(data))
-skills = choix.ilsr_pairwise(8, data, alpha=0.01)
 
-print(skills)
+print("Nylon\tGemScore")
+skills = choix.ilsr_pairwise(8, data, alpha=0.01)
+print("=====================")
+for i in range(len(skills)):
+	print(i+1,"\t",skills[i])
